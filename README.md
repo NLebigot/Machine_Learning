@@ -1,4 +1,4 @@
-Prédiction de maladies cardiaques par Machine Learning
+Prédiction de maladies cardiaques
 Objectif
 
 Ce projet vise à développer un modèle de machine learning capable de prédire la présence d’une maladie cardiaque chez un patient à partir de données médicales. L’enjeu est de détecter précocement les patients à risque afin d’améliorer leur prise en charge. Pour cela, plusieurs algorithmes ont été entraînés et comparés (régression logistique, GLM, Random Forest, Random Forest optimisée, réseau de neurones, XGBoost) afin d’identifier le modèle le plus performant.
